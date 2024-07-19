@@ -1,5 +1,5 @@
 
-## Hi there, I'm Kubomu! 👋
+## Jambo, I'm Kubomu! 👋🏿🦅
 
 ### About Me
 
