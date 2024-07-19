@@ -3,13 +3,13 @@
 
 ### About Me
 
-🌟 I'm passionate about tech and software development, currently diving deep into Python and Ruby on Rails. My journey began with a love for solving puzzles, which naturally led me to programming.
+🌟 I'm passionate about tech and software development, currently diving deep into Python. My journey began with a love for solving puzzles, which naturally led me to programming.
 
 🚀 I love building projects that solve real-world problems and exploring new technologies. Recently, I've been fascinated by the intersection of AI and web development.
 
 ### What I'm Learning
 
-📚 I'm currently learning Python and improving my skills in Ruby on Rails. I enjoy the versatility of Python for both backend development and data analysis, while Ruby on Rails appeals to my interest in building robust web applications efficiently.
+📚 I'm currently learning Python. I enjoy the versatility of Python for both backend development and data analysis.
 
 ### My Projects
 
