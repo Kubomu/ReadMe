@@ -31,7 +31,3 @@
 ### Find Me Around the Web
 
 🌍 Connect with me on [Twitter](twitter.com/KubomuEdi) to stay updated on my latest projects and tech insights.
-
-### Fun Fact
-
-🎯 I'm a huge fan of Mercedes-Benz and luxury cars. When I'm not coding, you'll often find me reading car reviews or exploring new tech gadgets.
