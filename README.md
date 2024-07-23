@@ -28,4 +28,4 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-🌍 Connect with me on [Twitter](twitter.com/KubomuEdi) to stay updated on my latest projects and tech insights.
+🌍 Connect with me on [X](twitter.com/KubomuEdi) to stay updated on my latest projects and tech insights.
