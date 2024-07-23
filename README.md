@@ -28,6 +28,24 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
+## 📊 Proficiency:
+
+- **Python**: 90%
+- **Ruby on Rails**: 85%
+- **Docker**: 80%
+- **Embedded Systems**: 75%
+- **AWS**: 70%
+- **SQL**: 70%
+- **Cisco**: 65%
+- **HTML5**: 60%
+- **CSS3**: 60%
+- **JavaScript**: 55%
+- **React**: 50%
+- **Bootstrap**: 45%
+- **Tailwind CSS**: 45%
+- **C++**: 40%
+
+
 ### Find Me Around the Web
 
 🌍 Connect with me on [Twitter](twitter.com/KubomuEdi) to stay updated on my latest projects and tech insights.
